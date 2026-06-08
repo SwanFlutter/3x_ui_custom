@@ -7,13 +7,13 @@
   </picture>
 </p>
 
-[![Release](https://img.shields.io/github/v/release/SwanFlutter/3x-ui.svg)](https://github.com/SwanFlutter/3x-ui/releases)
-[![Build](https://img.shields.io/github/actions/workflow/status/SwanFlutter/3x-ui/release.yml.svg)](https://github.com/SwanFlutter/3x-ui/actions)
-[![GO Version](https://img.shields.io/github/go-mod/go-version/SwanFlutter/3x-ui.svg)](#)
-[![Downloads](https://img.shields.io/github/downloads/SwanFlutter/3x-ui/total.svg)](https://github.com/SwanFlutter/3x-ui/releases/latest)
+[![Release](https://img.shields.io/github/v/release/SwanFlutter/3x_ui_custom.svg)](https://github.com/SwanFlutter/3x_ui_custom/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/SwanFlutter/3x_ui_custom/release.yml.svg)](https://github.com/SwanFlutter/3x_ui_custom/actions)
+[![GO Version](https://img.shields.io/github/go-mod/go-version/SwanFlutter/3x_ui_custom.svg)](#)
+[![Downloads](https://img.shields.io/github/downloads/SwanFlutter/3x_ui_custom/total.svg)](https://github.com/SwanFlutter/3x_ui_custom/releases/latest)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Go Reference](https://pkg.go.dev/badge/github.com/SwanFlutter/3x-ui/v3.svg)](https://pkg.go.dev/github.com/SwanFlutter/3x-ui/v3)
-[![Go Report Card](https://goreportcard.com/badge/github.com/SwanFlutter/3x-ui/v3)](https://goreportcard.com/report/github.com/SwanFlutter/3x-ui/v3)
+[![Go Reference](https://pkg.go.dev/badge/github.com/SwanFlutter/3x_ui_custom/v3.svg)](https://pkg.go.dev/github.com/SwanFlutter/3x_ui_custom/v3)
+[![Go Report Card](https://goreportcard.com/badge/github.com/SwanFlutter/3x_ui_custom/v3)](https://goreportcard.com/report/github.com/SwanFlutter/3x_ui_custom/v3)
 
 **3x_ui_custom** — advanced, open-source web-based control panel designed for managing Xray-core server. It offers a user-friendly interface for configuring and monitoring various VPN and proxy protocols.
 
@@ -25,7 +25,7 @@ As an enhanced fork of the original X-UI project, 3x_ui_custom provides improved
 ## Quick Start
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/SwanFlutter/3x_ui_custom/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/SwanFlutter/3x_ui_custom/main/install.sh)
 ```
 
 For full documentation, please visit the [project Wiki](https://github.com/SwanFlutter/3x-ui/wiki).
@@ -92,4 +92,4 @@ Tools and integrations built by the community around 3x_ui_custom.
 
 ## Stargazers over Time
 
-[![Stargazers over time](https://starchart.cc/SwanFlutter/3x-ui.svg?variant=adaptive)](https://starchart.cc/SwanFlutter/3x-ui)
+[![Stargazers over time](https://starchart.cc/SwanFlutter/3x_ui_custom.svg?variant=adaptive)](https://starchart.cc/SwanFlutter/3x_ui_custom)
