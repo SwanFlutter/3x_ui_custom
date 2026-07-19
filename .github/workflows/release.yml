@@ -1,4 +1,4 @@
-﻿name: Release 3x_ui_custom
+name: Release 3x_ui_custom
 
 on:
   workflow_dispatch:
@@ -47,7 +47,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Setup Go
-        uses: actions/setup-go@v6
+        uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
           check-latest: true
@@ -191,7 +191,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Setup Go
-        uses: actions/setup-go@v6
+        uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
           check-latest: true
